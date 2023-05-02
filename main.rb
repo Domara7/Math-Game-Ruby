@@ -1,6 +1,6 @@
 require "./classes/Player"
 require "./classes/Matches"
-require "./classes/Questions"
+require "./classes/Question"
 
 
 
